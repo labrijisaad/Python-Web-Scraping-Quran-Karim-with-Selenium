@@ -4,7 +4,7 @@
 </p>
 
 - 🎯 In this notebook, I tried to write a script capable of scraping the Quran Karim in different languages (French, English and Wolof) to have parallel data.
-- 🛠️ The procedure and how the scraping is done, as well as the cleaning is explained in the notebooks
+- 🛠️ The procedure and how the scraping is done, as well as the cleaning is explained in the notebooks.
 - 📫 Feel free to contact me if anything is wrong or if anything needs to be changed 😎!  **labrijisaad@gmail.com**
 
 <a href="https://colab.research.google.com/github/labrijisaad/Python-Web-Scraping-Quran-Karim-with-Selenium" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
